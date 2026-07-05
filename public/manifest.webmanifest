@@ -1,0 +1,18 @@
+{
+  "name": "Accounting Trainer",
+  "short_name": "Accounting",
+  "description": "Private Accounting-Lern-App ohne kostenpflichtige APIs.",
+  "start_url": "dashboard/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f6",
+  "theme_color": "#2f6f5e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
